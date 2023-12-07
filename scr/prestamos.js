@@ -1,4 +1,4 @@
-const url = 'http://localhost/ExamenWebFinal/ajax/prestamos.php';
+const url = 'https://ninjaxdarking.github.io/EAweb/ajax/prestamos.php';
 
 
 
