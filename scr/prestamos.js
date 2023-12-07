@@ -1,4 +1,4 @@
-const url = 'https://ninjaxdarking.github.io/EAweb/ajax/prestamos.php';
+const url = 'https://andjord.github.io/ea-web/ajax/prestamos.php';
 
 
 
