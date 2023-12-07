@@ -1,4 +1,4 @@
-const mostrarDatos11 = 'https://localhost/SistemaBiblioteca/ajax/usuarios.php?op=listar';
+const mostrarDatos11 = 'ninjaxdarking.github.io/EAweb//ajax/usuarios.php?op=listar';
 const mostrarPorID11 = 'https://localhost/SistemaBiblioteca/ajax/usuarios.php?op=listarId';
 const insertar11 = 'https://localhost/SistemaBiblioteca/ajax/usuarios.php?op=insertar';
 const actualizar11= 'https://localhost/SistemaBiblioteca/ajax/usuarios.php?op=actualizar';
